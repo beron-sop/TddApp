@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TddApp</string>
+    <string name="start_tdd_flow">Start TDD Flow</string>
+</resources>
